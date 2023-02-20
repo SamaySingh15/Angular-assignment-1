@@ -20,6 +20,8 @@ this is the page which will be visible after login and contains a form which wil
 
 # Page after adding users
 after the entering the details to the form users will be added to the left portion of the screen
+![Screenshot (128)](https://user-images.githubusercontent.com/117428003/220031358-46bebc03-89da-4e6e-bd1b-c7554c8f27c6.png)
+
 
 
 

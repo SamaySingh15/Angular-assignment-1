@@ -16,7 +16,7 @@ this page allows users to sign up this functionality is implemented by using JSO
 
 
 # Functionality 3 -INFO-PAGE
-this is the page which will be visible after login
+this is the page which will be visible after login and contains a form which will allow user to enter his details and save it.
 
 # Page after adding users
 after the entering the details to the form users will be added to the left portion of the screen
